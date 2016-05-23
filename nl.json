@@ -1945,7 +1945,7 @@
 	"localizationSuccess":"Dank u voor het sturen van uw feedback!",
 	"localizationError":"Fout bij het verzenden feedback!",
 	"localizationError104":"Vul een suggestie",
-	"languageSelect":"In andere talen:"
+	"languageSelect":"In andere talen:",
 	"advancedPresence":"Aanwezigheids Reportage",
 	"advancedEnablePresence":"Aanwezigheids Reportage",
 	"advancedEnablePresenceTip":"Export instelling van aanwezigheids rapportage data van draadloze clients. Vaak gebruikt voor locatie analyse.",
@@ -1957,6 +1957,5 @@
 	"advancedPresenceRate60":"60",
 	"advancedPresenceRate75":"75",
 	"advancedPresenceRate100":"100",
-	"advancedPresenceRate150":"150",
-	
+	"advancedPresenceRate150":"150"
 }
