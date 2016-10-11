@@ -2500,7 +2500,7 @@
 	"transferSwitchSuccess":"{p0} switch(es) ha sido movido a la red {ts1}{p2}{te3}.”,
 	"select":"Seleccionar”,
 	"none":"Ninguno”,
-	"switchPaneHelp":"Clic aquí para saber más sobre esta páguina”,
+	"switchPaneHelp":"Clic aquí para saber más sobre esta página”,
 	"portTableNone":"¡Puertos no añadidos todavía!”,
 	"portPluralLabel":"{p0} puertos total.”,
 	"portSingularLabel":"{p0} puerto total.”,
